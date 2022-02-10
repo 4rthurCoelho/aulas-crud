@@ -1,6 +1,6 @@
 <h1>Iniciando a atividade!<h1>
 <br>
-Para rodar o docker compose e a tabela:
+<h3>Para rodar o docker compose e a tabela:
 <br>
 <br>
 1-Em um terminal dentro do diretorio rode:
@@ -29,4 +29,4 @@ Após isso rode o servidor do php no terminarl para poder fazer os testes deseej
 <br>
 Exemplo:
 <br>
-"php -S localhost:8181"
+"php -S localhost:8181"<h3>
