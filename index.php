@@ -29,7 +29,7 @@ include_once 'includes/mensagem.php';
                 <tr>
                     <td><?php echo $dados['nome']; ?></td>
                     <td><?php echo $dados['sobrenome']; ?></td>
-                    <td><?php echo $dados['email']; ?>-97@emayl.com</td>
+                    <td><?php echo $dados['e-mail']; ?></td>
                     <td><?php echo $dados['idade']; ?></td>
                     <td><a href="" class="btn-floating purple"><i class="material-icons">edit</i></a></td>
                     <td><a href="" class="btn-floating pink"><i class="material-icons">delete</i></a></td>

@@ -17,7 +17,7 @@ include_once 'includes/header.php';
             </div>
 
             <div class="input-field col s12">
-                <input type="text" name="email" id="email">
+                <input type="text" name="e-mail" id="email">
                 <label for="email">E-mail</label>
             </div>
 
