@@ -6,7 +6,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: 11213141516
     ports:
-      - 3336:3306
+      - 3306:3306
 
   phpmyadmin:
     image: phpmyadmin
